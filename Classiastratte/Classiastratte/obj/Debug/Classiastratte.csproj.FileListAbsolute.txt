@@ -1,0 +1,7 @@
+C:\Users\Linguistico\Desktop\3I1 stringhe\Classiastratte\Classiastratte\bin\Debug\Classiastratte.exe.config
+C:\Users\Linguistico\Desktop\Classiastratte\Classiastratte\bin\Debug\Classiastratte.exe.config
+C:\Users\Linguistico\Desktop\Classiastratte\Classiastratte\obj\Debug\Classiastratte.csprojResolveAssemblyReference.cache
+C:\Users\Linguistico\Desktop\Classiastratte\Classiastratte\bin\Debug\Classiastratte.exe
+C:\Users\Linguistico\Desktop\Classiastratte\Classiastratte\bin\Debug\Classiastratte.pdb
+C:\Users\Linguistico\Desktop\Classiastratte\Classiastratte\obj\Debug\Classiastratte.exe
+C:\Users\Linguistico\Desktop\Classiastratte\Classiastratte\obj\Debug\Classiastratte.pdb
